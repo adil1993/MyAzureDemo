@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-
+//just for commit
 namespace DotNetAppSqlDb.Models
 {
     public class Todo
